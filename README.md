@@ -145,6 +145,7 @@ To load this Excel dashboard as a project repo (e.g., for portfolio/sharing), fo
 4. **Enhance Repo**:
    - Upload the screenshot: Drag-drop the image file to the repo > Commit as "Add dashboard screenshot".
    - Add .gitignore for Excel temp files (e.g., ~$*).
-   - Link in README: "View screenshot: ![Dashboard](screenshot.png)".
+   - Link in README: "View screenshot: ![Dashboard](https://github.com/Jainkanika09/HR-Master-Data-Dashboard/blob/main/Employee%20master%20data%20dashboard%20screenshot.png)
+   - ".
 
 Your project will be live at `https://github.com/YOUR_USERNAME/HR-Excel-Dashboard`. For collaboration, invite via repo settings. If issues, check GitHub docs or reply for troubleshooting!
